@@ -10,5 +10,5 @@ Employee_detail Project
 
 
 To test,copy to any local server eg:WAMP,
-import sql file
+import sql file,
 upload csv file from landing page
