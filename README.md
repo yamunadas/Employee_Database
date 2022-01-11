@@ -12,3 +12,7 @@ Employee_detail Project
 To test,copy to any local server eg:WAMP,
 import sql file,
 upload csv file from landing page
+  
+  
+  Please checkout the link
+   https://yamunadas.github.io/Employee_Database/
