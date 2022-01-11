@@ -14,5 +14,3 @@ import sql file,
 upload csv file from landing page
   
   
-  Please checkout the link
-   https://yamunadas.github.io/Employee_Database
